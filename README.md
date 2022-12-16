@@ -3,6 +3,8 @@
 
 - 💬 Ask me about **React, JavaScript, Python**
 
+- 📫 How to reach me **keithglines@gmail.com**
+
 - ⚡ Fun fact **I enjoy playing vintage baseball**
 
 <h3 align="left">Connect with me:</h3>
