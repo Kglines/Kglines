@@ -17,4 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kglines&show_icons=true&locale=en&layout=compact" alt="kglines" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kglines&show_icons=true&theme=transparent)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kglines&show_icons=true&locale=en" alt="kglines" /></p>
