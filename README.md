@@ -5,7 +5,7 @@ Full Stack Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Wilmington, DE
-* 🖥️  See my portfolio at [MyPortfolio](http://kglines.github.io/keithglines/)
+* 🖥️  See my portfolio at [MyPortfolio](https://www.keithglines.net/)
 * ✉️  You can contact me at [keithglines@gmail.com](mailto:keithglines@gmail.com)
 * ⚡  Fun Fact...I'm a Vintage Baseball Player
 
